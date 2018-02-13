@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dicee</string>
+    <string name="button_text">Бросить</string>
+    <string name="description_button">Бросить кости</string>
+    <string name="left_dice">Левая кость</string>
+    <string name="right_dice">Правая кость</string>
+    <string name="logo">Лого</string>
+</resources>
